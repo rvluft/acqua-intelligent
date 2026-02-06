@@ -1,0 +1,127 @@
+[
+  {
+    "file": "babitonga_16-10-2025-1031.jpg",
+    "metadata": {
+      "file_id": "teste/babitonga_16-10-2025-1031.jpg",
+      "source": "lightroom",
+      "original_filename": "babitonga_16-10-2025-1031.jpg",
+      "title": "Pombo na Praia",
+      "description_short": "Imagem de uma praia com um pombo voando sobre a água",
+      "description_long": "A imagem captura um momento de tranquilidade na praia, com o pombo voando baixo sobre a água. A vegetação e a areia formam um contraste agradável com o movimento do pombo. A praia é um ambiente natural perfeito para a vida selvagem.",
+      "habitat_guess": "praia",
+      "habitat_confidence": 0.9,
+      "habitat_evidence": "água, vegetação, areia",
+      "species_candidates": [
+        {
+          "name_pt": "Pombo",
+          "name_scientific": "Columba livia",
+          "confidence": 0.8,
+          "evidence": "pombo voando sobre a água",
+          "taxonomy_level": "species"
+        }
+      ],
+      "archaeology_flags": [],
+      "archaeology_evidence": "",
+      "keywords": [
+        "bioma:praia",
+        "geomorfologia:costa",
+        "fauna:Columba livia",
+        "flora:vegetação",
+        "atividade:nenhuma",
+        "clima:clima_quente",
+        "tecnica:nenhuma",
+        "conservacao:nenhuma",
+        "cores:azul, verde, areia",
+        "elementos:água, areia, vegetação"
+      ],
+      "location_guess": null,
+      "activities": [],
+      "technical_quality": "sharp",
+      "processing_timestamp": "2026-01-15T14:02:43.974558"
+    }
+  },
+  {
+    "file": "penha_21-11-2025-4617-Edit.jpg",
+    "metadata": {
+      "file_id": "teste/penha_21-11-2025-4617-Edit.jpg",
+      "source": "lightroom",
+      "original_filename": "penha_21-11-2025-4617-Edit.jpg",
+      "title": "Praia com Vegetação e Rochas",
+      "description_short": "Imagem de uma praia com vegetação e rochas, com água azul e clima claro.",
+      "description_long": "A praia é caracterizada por uma vegetação densa e rochas ao longo da costa. A água é azul e transparente, com ondas suaves. O clima é claro e ensolarado, com uma temperatura agradável.",
+      "habitat_guess": "praia",
+      "habitat_confidence": 0.9,
+      "habitat_evidence": "vegetacao, rochas, areia, agua azul",
+      "species_candidates": [
+        {
+          "name_pt": "Sargazéo",
+          "name_scientific": "Sargassum",
+          "confidence": 0.8,
+          "evidence": "algas, vegetacao aquática",
+          "taxonomy_level": "genus"
+        }
+      ],
+      "archaeology_flags": [],
+      "archaeology_evidence": "",
+      "keywords": [
+        "bioma:praia",
+        "geomorfologia:costa",
+        "flora:vegetacao",
+        "fauna:algas",
+        "atividade:nenhuma",
+        "clima:claro",
+        "tecnica:aerea",
+        "cores:azul_claro",
+        "elementos:agua",
+        "cores:verde_escuro"
+      ],
+      "location_guess": null,
+      "activities": [],
+      "technical_quality": "sharp",
+      "processing_timestamp": "2026-01-15T14:03:07.384842"
+    }
+  },
+  {
+    "file": "itajai-411-HDR-Edit.jpg",
+    "metadata": {
+      "file_id": "teste/itajai-411-HDR-Edit.jpg",
+      "source": "lightroom",
+      "original_filename": "itajai-411-HDR-Edit.jpg",
+      "title": "Praia com Manguezal",
+      "description_short": "Imagem de uma praia com vegetação e areia, com um ecossistema de manguezal ao fundo.",
+      "description_long": "A imagem captura a beleza de uma praia com manguezal, onde a vegetação e a areia se misturam com o ecossistema de manguezal ao fundo. Este ecossistema é conhecido por sua importância para a biodiversidade e a estabilidade do meio ambiente. A praia é um local popular para atividades como caminhar, nadar e observar a vida selvagem.",
+      "habitat_guess": "manguezal",
+      "habitat_confidence": 0.95,
+      "habitat_evidence": "vegetação, areia, ecossistema de manguezal",
+      "species_candidates": [
+        {
+          "name_pt": "Sargazoeira",
+          "name_scientific": "Sargassum",
+          "confidence": 0.8,
+          "evidence": "algas",
+          "taxonomy_level": "genus"
+        }
+      ],
+      "archaeology_flags": [],
+      "archaeology_evidence": "",
+      "keywords": [
+        "bioma:manguezal",
+        "geomorfologia:praia",
+        "flora:manguezal",
+        "fauna:aves",
+        "atividade:caminhada",
+        "clima:clima_tropical",
+        "cores:azul_claro",
+        "cores:verde_escuro",
+        "cores:agua",
+        "elementos:areia",
+        "elementos:ceu_claro",
+        "elementos:mare_baixa"
+      ],
+      "location_guess": null,
+      "activities": [],
+      "technical_quality": "sharp",
+      "processing_timestamp": "2026-01-15T14:03:33.374056"
+    }
+  }
+]
